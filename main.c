@@ -45,6 +45,7 @@ char *TempFileFmt;
 uid_t DaemonUid;
 pid_t DaemonPid;
 
+/* test by zzy */
 int
 main(int ac, char **av)
 {
